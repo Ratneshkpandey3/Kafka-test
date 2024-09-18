@@ -1,0 +1,4 @@
+flask
+flask-sock
+psycopg2-binary
+kafka-python
